@@ -1,4 +1,4 @@
-# Machine Learning Journey 🚀
+# Machine Learning Journey 
 
 > From foundations to research-level understanding
 
